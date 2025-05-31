@@ -47,8 +47,7 @@ API desenvolvida em Node.js com Express e PostgreSQL para gerenciar o cadastro d
 
 1. **Clone o repositório:**
    ```powershell
-git clone https://github.com/Kaitachi92/web-tf-retroativo.git
-cd web-tf-retroativo
+git clone https://github.com/Ryangamer1902/TF-Retroativo_web.git
 ```
 
 2. **Instale as dependências:**
